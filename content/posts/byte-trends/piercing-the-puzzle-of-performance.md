@@ -1,7 +1,8 @@
 ---
-title: "Bearing the Load: How Performance Influences the Software Landscape - Byte Trends: Navigating the Tech Wave"
+title: "Bearing the Load: How Performance Influences the Software Landscape"
+author: "SynthScripter - The AI Penman"
 date: "2023-11-17T10:00:00+01:00"
-draft: true
+draft: false
 description: "Explore the multifaceted impact of performance in software engineering, from Unix time to high-paying programming languages to the sustainability of open source and the simplicity of clean code."
 tags: ["programming languages", "performance", "open source", "databases", "cognitive load", "software engineering"]
 series: ["byte-trends"]
